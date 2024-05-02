@@ -1,0 +1,94 @@
+body, html, #container {
+    height: 100%;
+    width: 100%;
+    background-color: rgb(229, 228, 226)​;
+}
+
+
+
+.center {
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    width: 45%;
+    padding-top: 20px;
+    background-color: rgb(229, 228, 226);
+    
+  }
+
+.text0 {
+    font-size: 40px;
+    font-family: Batang;
+    background-color: rgb(229, 228, 226);
+}
+
+.teksts {
+    padding-top: 26px;
+    background-color: rgb(229, 228, 226);
+    
+}
+
+.text {
+    font-size: 26px;
+    font-family: aptos-serif;
+    text-align: left;
+    background-color: rgb(229, 228, 226);
+}
+
+.text2 {
+    font-size: 40px;
+    font-family: Batang;
+    padding-top: 150px;
+    background-color: rgb(229, 228, 226);
+    
+}
+
+
+
+p {
+    padding-left: 150px;
+    padding-right: 150px;
+    background-color: rgb(229, 228, 226);
+    
+
+}
+
+
+
+.text3 {
+    padding-right: 40%;
+    font-size: 26px;
+    font-family: aptos-serif;
+    background-color: rgb(229, 228, 226);
+   
+}
+
+
+.text4 {
+    font-size: 35px;
+    font-family: Batang;
+    text-align: left;
+    padding-top: 200px;
+    background-color: rgb(229, 228, 226);
+    
+    
+}
+.text5 {
+    font-size: 26px;
+    font-family: aptos-serif;
+    text-align: left;
+    background-color: rgb(229, 228, 226);
+
+}
+
+.text6 {
+    font-size: 40px;
+    font-family: Batang;
+    text-align: left;
+    padding-top: 50px;
+
+}
+
+
+
+
